@@ -1,4 +1,6 @@
-# Lambda ID
+# (DEPRECATED) Lambda ID
+
+*Deprecated:* Development has been folded in to https://github.com/lstoll/idp
 
 Example OIDC IDP that runs in lambda, using various AWS services.
 
